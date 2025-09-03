@@ -1,4 +1,6 @@
 # Aplicaciones-Windows
 Aplicaciones Windows en C++ con Codeblocks Mingw
-// Copyright (c) 2025 Anibal Zanutti
-// Licensed under the MIT License. See LICENSE file for details.
+## 📄 Licencia
+Este proyecto está licenciado bajo la **MIT License**.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Copyright (c) 2025 Anibal Zanutti
